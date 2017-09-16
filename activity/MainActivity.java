@@ -1,4 +1,4 @@
-package osmantuna.com.xml_pars_project;
+package osmantuna.com.xml_pars_project.activity;
 
 import android.app.Activity;
 import android.support.annotation.Nullable;
